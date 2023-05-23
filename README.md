@@ -1,1 +1,1 @@
-# jackpat_we_app
+# jackpat_web_app
