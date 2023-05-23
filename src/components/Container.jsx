@@ -123,7 +123,7 @@ const Container = () => {
               <p/><p>dickyardiar1@gmail.com</p>
             </div>
           </div>
-          <button className="repo-button" onClick={() => window.open('https://github.com/iamhkmid/jakpat-test2-cra')}>Repository Code</button>
+          <button className="repo-button" onClick={() => window.open('https://github.com/Dickyrdiar/jackpat_we_app')}>Repository Code</button>
         </div>
       </ContrainerStyled>
     </>
